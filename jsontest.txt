@@ -1,21 +1,21 @@
 [
   {
-    "channel": "12-1",
+    "channel": "222",
     "name": "CNN",
     "file": "cnn.png"
   },
   {
-    "channel": "13-1",
+    "channel": "333",
     "name": "USA",
     "file": "usa.png"
   },
    {
-    "channel": "14-1",
+    "channel": "444",
     "name": "Channel 3",
     "file": "3.png"
   },
    {
-    "channel": "15-1",
+    "channel": "555",
     "name": "Channel 4",
     "file": "4.png"
   },
