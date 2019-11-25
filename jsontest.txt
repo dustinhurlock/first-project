@@ -1,0 +1,27 @@
+[
+  {
+    "channel": "12-1",
+    "name": "CNN",
+    "file": "cnn.png"
+  },
+  {
+    "channel": "13-1",
+    "name": "USA",
+    "file": "usa.png"
+  },
+   {
+    "channel": "14-1",
+    "name": "Channel 3",
+    "file": "3.png"
+  },
+   {
+    "channel": "15-1",
+    "name": "Channel 4",
+    "file": "4.png"
+  },
+   {
+    "channel": "63-1",
+    "name": "Channel 5",
+    "file": "5.png"
+  }
+]
